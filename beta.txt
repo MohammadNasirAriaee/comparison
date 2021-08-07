@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 alpha beta gama delta (changed for the branches practice)
+=======
+alpha beta gama delta 
+(also changes for multi branches change test)
+>>>>>>> feature-two
